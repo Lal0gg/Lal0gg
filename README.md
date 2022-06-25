@@ -1,5 +1,5 @@
 </br>
-<h1>Saludos, soy Eduardo :) </h1>
+<h1>Soy Eduardo, saludos:)  </h1>
 </hr> 
 <samp>
 Developer
