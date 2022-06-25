@@ -3,6 +3,9 @@
 <!--
 **Lal0gg/Lal0gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Lal0gg&theme=chartreuse-dark)
+<img align="left" alt="esnorki2008's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lal0gg&theme=chartreuse-dark&show_icons=true"/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
