@@ -19,7 +19,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lal0gg&label=Profile%20views&color=0e75b6&style=flat" alt="Lal0gg" /> </p>
 
 
-- 🔭 I'm currently studying science and systems engineering.*
+- 🔭 I'm currently studying **science and systems engineering.**
 
 - 🌱 I’m currently learning **DevOps**
 
