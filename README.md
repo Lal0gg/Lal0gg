@@ -18,20 +18,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Lal0gg" /> </p>
 
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I'm currently studying science and systems engineering.*
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **LOTR**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **edujosgonzalezc@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
-
-
+- ⚡ Fun fact **94% of developers say they prefer using spaces over tabs for code indentation.**
 
 
 
+
+<br>
+<br>
+<br>
 
 <h2 align="center"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25" alt="Graph Icon"> My GitHub Stats</h2>
 
