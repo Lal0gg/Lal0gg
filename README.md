@@ -12,7 +12,7 @@
 
 <h1 align="center">Hi 👋, I'm Eduardo González</h1>
 <h3 align="center">A passionate  Developer from Guatemala</h3>
-<img align="right" alt="Coding" width="300" height="250" style="object-fit: cover; border-radius: 10px;" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b7611zc5s120qhi5p3cxjznqvojcb1dw0rc0dcxju2ajo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" height="250" style="object-fit: cover; border-radius: 10px;" src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=ecf05e47fv5hj6d6edbhlotxye99sv7kluagqdnn4pxbss53&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 
