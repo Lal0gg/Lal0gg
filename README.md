@@ -6,15 +6,15 @@
 </head>
 <body>
 
-<h1 align="center">Soy Eduardo, saludos 🙂</h1>
-
-<p align="center">
-  <samp>Developer</samp>
-</p>
-
 <div align="center">
   <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" style="width: 100%; height: 100%;" alt="Coding Animation" />
 </div>
+
+<h1 align="center">Hola soy Eduardo, saludos 🙂</h1>
+
+
+
+
 
 <h2 align="center"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25" alt="Graph Icon"> My GitHub Stats</h2>
 
